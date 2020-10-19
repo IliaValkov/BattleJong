@@ -1,0 +1,5 @@
+node_modules/
+.yo-rc.json
+package-lock.json
+dist/
+Dockerfile
